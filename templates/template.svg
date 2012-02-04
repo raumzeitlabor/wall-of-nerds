@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="524.40942"
+   height="744.09448"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.26769)"
+     id="layer1">
+    <rect
+       width="321.7525"
+       height="40.777027"
+       x="40.948006"
+       y="346.09146"
+       id="rect3755"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="48.500843"
+       y="377.28537"
+       id="text3757"
+       xml:space="preserve"
+       style="font-size:68.93590546px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="48.500843"
+         y="377.28537"
+         id="tspan3759"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">_NICK_</tspan></text>
+    <rect
+       width="321.75116"
+       height="36.847099"
+       x="40.948006"
+       y="398.05313"
+       id="rect3761"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="49.218616"
+       y="423.21564"
+       id="text3763"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="49.218616"
+         y="423.21564"
+         id="tspan3765"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">_LINE2_</tspan></text>
+    <image
+       xlink:href="http://api.qrserver.com/v1/create-qr-code/?data=_QR_&size=600x600
+       x="373.58893"
+       y="345.38278"
+       width="110"
+       height="110"
+       id="image3803"
+       style="fill:#ffd5d5" />
+    <g
+       transform="matrix(0.74408243,0,0,0.74408243,67.371053,158.50338)"
+       id="g4043">
+      <image
+         xlink:href="_PIC_"
+         x="35.886108"
+         y="434.35059"
+         width="452.97638"
+         height="452.97638"
+         id="image4019"
+         style="fill:#ffd5d5" />
+      <rect
+         width="452.57648"
+         height="452.57648"
+         x="35.025841"
+         y="434.72284"
+         id="rect4041"
+         style="fill:none;stroke:#000000;stroke-width:0.39990732;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4148">
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="300.77115"
+         y="931.78534"
+         id="rect4094"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="212.18848"
+         y="931.78534"
+         id="rect4096"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="123.6058"
+         y="931.78534"
+         id="rect4098"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="35.023129"
+         y="931.78534"
+         id="rect4100"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="389.35382"
+         y="843.20264"
+         id="rect4102"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="300.77115"
+         y="843.20264"
+         id="rect4104"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="212.18848"
+         y="843.20264"
+         id="rect4106"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="123.6058"
+         y="843.20264"
+         id="rect4108"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="35.023129"
+         y="843.20264"
+         id="rect4110"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         width="88.136414"
+         height="88.136414"
+         x="389.35382"
+         y="931.78534"
+         id="rect4135"
+         style="fill:none;stroke:#000000;stroke-width:0.44626033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
