@@ -64,7 +64,7 @@
          id="tspan3765"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">_LINE2_</tspan></text>
     <image
-       xlink:href="http://api.qrserver.com/v1/create-qr-code/?data=_QR_&size=600x600
+       xlink:href="http://api.qrserver.com/v1/create-qr-code/?data=_QR_&amp;size=600x600"
        x="373.58893"
        y="345.38278"
        width="110"
