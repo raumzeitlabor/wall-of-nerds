@@ -15,7 +15,6 @@ function pdf_make($nick, $line2, $qr, $pic, $output){
 	fwrite($tmpfile, $svg);
 	fclose($tmpfile);
 	shell_exec('rsvg-convert -f pdf -o '.escapeshellarg($output).' '.$tmp);
-	echo ('rsvg-convert -f pdf -o '.escapeshellarg($output).' '.$tmp);
 }       
 pdf_make($argv[1], $argv[2], $argv[3], $argv[4], $argv[5]);
 
